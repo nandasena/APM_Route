@@ -38,7 +38,6 @@ import { ProductEditInfoComponent } from './product-edit/product-edit-info.compo
           } 
         ]
       },
-
     ])
   ],
   declarations: [
